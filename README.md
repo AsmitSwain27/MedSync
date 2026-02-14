@@ -64,27 +64,27 @@ MedSync_JK1/
 │   │   ├── validators/       # Input validation
 │   │   ├── utils/            # Helper functions
 │   │   └── config/           # Database config
-│   ├── server.js            # Entry point
-│   ├── Dockerfile           # Docker configuration
-│   └── .env.production      # Production environment template
+│   ├── server.js             # Entry point
+│   ├── Dockerfile            # Docker configuration
+│   └── .env.production       # Production environment template
 ├── frontend/
 │   ├── src/
 │   │   ├── components/       # React components
-│   │   ├── pages/           # Page components
-│   │   ├── services/        # API services + Groq AI
-│   │   ├── contexts/        # React Context (Auth)
-│   │   ├── hooks/           # Custom hooks
-│   │   └── lib/             # Utilities
-│   ├── public/              # Static assets
-│   ├── Dockerfile           # Docker configuration
-│   ├── nginx.conf           # Nginx configuration
-│   └── .env.production      # Production environment template
-├── docker-compose.yml       # Multi-container setup
-├── build.sh                 # Linux/Mac build script
-├── build.bat                # Windows build script
-├── DEPLOYMENT_GUIDE.md      # Comprehensive deployment guide
-├── GROQ_AI_INTEGRATION.md   # AI features documentation
-└── PROJECT_DOCUMENTATION.md # Full project documentation
+│   │   ├── pages/            # Page components
+│   │   ├── services/         # API services + Groq AI
+│   │   ├── contexts/         # React Context (Auth)
+│   │   ├── hooks/            # Custom hooks
+│   │   └── lib/              # Utilities
+│   ├── public/               # Static assets
+│   ├── Dockerfile            # Docker configuration
+│   ├── nginx.conf            # Nginx configuration
+│   └── .env.production       # Production environment template
+├── docker-compose.yml        # Multi-container setup
+├── build.sh                  # Linux/Mac build script
+├── build.bat                 # Windows build script
+├── DEPLOYMENT_GUIDE.md       # Comprehensive deployment guide
+├── GROQ_AI_INTEGRATION.md    # AI features documentation
+└── PROJECT_DOCUMENTATION.md  # Full project documentation
 ```
 
 ## 🚀 Quick Start
@@ -295,15 +295,18 @@ For issues and questions:
 - Optimized bundle size with code splitting
 - Image optimization with Cloudinary
 
+
+## 👨‍💻 Author
+
+**ASMIT SWAIN**
+- GitHub: [@AsmitSwain27](https://github.com/AsmitSwain27)
+- LinkedIn: [Asmit Swain](https://linkedin.com/in/asmit-swain27a15/)
+- Portfolio Website: [portfolio-asmit-swain.com](https://portfolio-asmit-swain.netlify.app/)
+- Email: [@asmitswain](swain.asmit2006@gmail.com)
+
 ## 🙏 Acknowledgments
 
 - Groq AI for powerful LLM capabilities
 - OpenStreetMap for free map data
 - shadcn/ui for beautiful components
 - MongoDB Atlas for database hosting
-
----
-
-**Built with ❤️ by the MedSync Team**
-
-**Last Updated**: December 17, 2025
