@@ -321,7 +321,6 @@ For issues and questions:
 
 ## 🙏 Acknowledgments
 
-<<<<<<< HEAD
 - [Groq AI](https://groq.com) for powerful LLM capabilities
 - [OpenStreetMap](https://www.openstreetmap.org/) for free map data
 - [shadcn/ui](https://ui.shadcn.com/) for beautiful components
@@ -330,9 +329,3 @@ For issues and questions:
 - [Leaflet.js](https://leafletjs.com/) for interactive maps
 - [Cloudinary](https://cloudinary.com/) for image management
 
-=======
-- Groq AI for powerful LLM capabilities
-- OpenStreetMap for free map data
-- shadcn/ui for beautiful components
-- MongoDB Atlas for database hosting
->>>>>>> 53d59b401514edd0f9dd70e82fa79419c3a8a530
