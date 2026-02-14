@@ -1,10 +1,20 @@
-# MedSync - Medical Appointment Platform
+# <p align="center">🏥 MedSync - Medical Appointment Platform 💊🩺</p>
 
 ![MedSync Logo](frontend/public/logo.jpeg)
 
-## 🏥 Overview
+MedSync is a modern, AI-powered medical appointment platform that seamlessly connects patients with healthcare providers. Built with cutting-edge technology, it offers intelligent doctor recommendations, smart scheduling, interactive maps for finding nearby doctors, and AI-assisted prescription writing—all in one comprehensive healthcare solution.
 
-MedSync is a modern medical appointment platform that connects patients with healthcare providers. Built with cutting-edge AI technology, it offers intelligent doctor recommendations, smart scheduling, and AI-assisted prescription writing.
+## 📸 Screenshots
+
+MedSync Dashboard:
+
+![MedSync Dashboard](frontend/public/dashboard-preview.png)
+
+## 🏥 About
+
+**Connecting Patients and Healthcare Providers with AI Intelligence**
+
+MedSync revolutionizes the way patients find and connect with doctors through intelligent technology, making healthcare more accessible and efficient for everyone.
 
 ## ✨ Key Features
 
@@ -64,27 +74,27 @@ MedSync_JK1/
 │   │   ├── validators/       # Input validation
 │   │   ├── utils/            # Helper functions
 │   │   └── config/           # Database config
-│   ├── server.js            # Entry point
-│   ├── Dockerfile           # Docker configuration
-│   └── .env.production      # Production environment template
+│   ├── server.js             # Entry point
+│   ├── Dockerfile            # Docker configuration
+│   └── .env.production       # Production environment template
 ├── frontend/
 │   ├── src/
 │   │   ├── components/       # React components
-│   │   ├── pages/           # Page components
-│   │   ├── services/        # API services + Groq AI
-│   │   ├── contexts/        # React Context (Auth)
-│   │   ├── hooks/           # Custom hooks
-│   │   └── lib/             # Utilities
-│   ├── public/              # Static assets
-│   ├── Dockerfile           # Docker configuration
-│   ├── nginx.conf           # Nginx configuration
-│   └── .env.production      # Production environment template
-├── docker-compose.yml       # Multi-container setup
-├── build.sh                 # Linux/Mac build script
-├── build.bat                # Windows build script
-├── DEPLOYMENT_GUIDE.md      # Comprehensive deployment guide
-├── GROQ_AI_INTEGRATION.md   # AI features documentation
-└── PROJECT_DOCUMENTATION.md # Full project documentation
+│   │   ├── pages/            # Page components
+│   │   ├── services/         # API services + Groq AI
+│   │   ├── contexts/         # React Context (Auth)
+│   │   ├── hooks/            # Custom hooks
+│   │   └── lib/              # Utilities
+│   ├── public/               # Static assets
+│   ├── Dockerfile            # Docker configuration
+│   ├── nginx.conf            # Nginx configuration
+│   └── .env.production       # Production environment template
+├── docker-compose.yml        # Multi-container setup
+├── build.sh                  # Linux/Mac build script
+├── build.bat                 # Windows build script
+├── DEPLOYMENT_GUIDE.md       # Comprehensive deployment guide
+├── GROQ_AI_INTEGRATION.md    # AI features documentation
+└── PROJECT_DOCUMENTATION.md  # Full project documentation
 ```
 
 ## 🚀 Quick Start
@@ -260,22 +270,33 @@ npm test
 
 ## 📄 License
 
-MIT License - see LICENSE file for details
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## 👥 Contributing
 
+Contributions are welcome! Please open an issue or submit a pull request for bug fixes, new features, or improvements.
+
 1. Fork the repository
-2. Create feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open Pull Request
+2. Create your feature branch
+   ```bash
+   git checkout -b feature/AmazingFeature
+   ```
+3. Commit your changes
+   ```bash
+   git commit -m 'Add AmazingFeature'
+   ```
+4. Push to your branch
+   ```bash
+   git push origin feature/AmazingFeature
+   ```
+5. Open a Pull Request!
 
 ## 📞 Support
 
 For issues and questions:
 - Create an issue on GitHub
 - Check existing documentation
-- Review DEPLOYMENT_GUIDE.md
+- Review DEPLOYMENT_GUIDE.md or PROJECT_DOCUMENTATION.md
 
 ## 🎯 Roadmap
 
@@ -295,15 +316,22 @@ For issues and questions:
 - Optimized bundle size with code splitting
 - Image optimization with Cloudinary
 
+
+## 👨‍💻 Author
+
+**ASMIT SWAIN**
+- GitHub: [@AsmitSwain27](https://github.com/AsmitSwain27)
+- LinkedIn: [Asmit Swain](https://linkedin.com/in/asmit-swain27a15/)
+- Portfolio Website: [portfolio-asmit-swain.com](https://portfolio-asmit-swain.netlify.app/)
+- Email: [@asmitswain](swain.asmit2006@gmail.com)
+
 ## 🙏 Acknowledgments
 
-- Groq AI for powerful LLM capabilities
-- OpenStreetMap for free map data
-- shadcn/ui for beautiful components
-- MongoDB Atlas for database hosting
+- [Groq AI](https://groq.com) for powerful LLM capabilities
+- [OpenStreetMap](https://www.openstreetmap.org/) for free map data
+- [shadcn/ui](https://ui.shadcn.com/) for beautiful components
+- [MongoDB Atlas](https://www.mongodb.com/atlas) for database hosting
+- [React](https://react.dev/) and [Vite](https://vitejs.dev/)
+- [Leaflet.js](https://leafletjs.com/) for interactive maps
+- [Cloudinary](https://cloudinary.com/) for image management
 
----
-
-**Built with ❤️ by the MedSync Team**
-
-**Last Updated**: December 17, 2025
