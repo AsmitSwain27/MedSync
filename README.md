@@ -4,12 +4,6 @@
 
 MedSync is a modern, AI-powered medical appointment platform that seamlessly connects patients with healthcare providers. Built with cutting-edge technology, it offers intelligent doctor recommendations, smart scheduling, interactive maps for finding nearby doctors, and AI-assisted prescription writing—all in one comprehensive healthcare solution.
 
-## 📸 Screenshots
-
-MedSync Dashboard:
-
-![MedSync Dashboard](frontend/public/dashboard-preview.png)
-
 ## 🏥 About
 
 **Connecting Patients and Healthcare Providers with AI Intelligence**
